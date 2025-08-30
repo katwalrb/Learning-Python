@@ -1,4 +1,5 @@
-from art import logo
+#caesar cipher combined function
+from caesar_art import logo
 print(logo)
 
 continue_program = True
